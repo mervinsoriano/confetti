@@ -6,3 +6,8 @@ body {
     justify-content: center;
     height: 100vh;
   }
+
+  h1 {
+    font-family: 'Sharpie-Extrabold';
+    font-size: 10em;
+  }
