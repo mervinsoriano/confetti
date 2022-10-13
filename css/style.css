@@ -9,5 +9,14 @@ body {
 
   h1 {
     font-family: 'Sharpie-Extrabold';
-    font-size: 10em;
+    font-size: 5em;
+  }
+  
+  .header {
+    color: black;
+    text-transform: uppercase;
+  }
+  
+  span:nth-child(odd) {
+    color: yellowgreen;
   }
