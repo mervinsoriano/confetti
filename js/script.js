@@ -1,3 +1,6 @@
 // My Scripts
+//console.log('Page Loaded');
+let confetti = new Confetti("confetti");
 
-console.log('Page Loaded');
+// Optionalize it
+confetti.destroyTarget(false);
